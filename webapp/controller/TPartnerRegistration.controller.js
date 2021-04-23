@@ -11,7 +11,7 @@ sap.ui.define([
 		return Controller.extend("com.demo.pcm.partnerregistration.controller.TPartnerRegistration", {
             
             
-             serviceUrl: null,
+            serviceUrl: null,
             siteID: null,
             currentPage: 0,
             Model: null,

@@ -5,7 +5,8 @@
     {
         "source": "^/c4c__public/(.*)",
         "target": "/$1",
-        "destination": "C4C__public"
+        "destination": "C4C__public",
+        "csrfProtection": false
     },
     {
       "source": "^/resources/(.*)$",
